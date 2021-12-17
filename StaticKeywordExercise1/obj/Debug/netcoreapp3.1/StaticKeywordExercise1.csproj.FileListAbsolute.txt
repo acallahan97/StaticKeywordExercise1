@@ -12,3 +12,17 @@ C:\Users\calla\source\repos\StaticKeywordExercise1\StaticKeywordExercise1\obj\De
 C:\Users\calla\source\repos\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.dll
 C:\Users\calla\source\repos\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.pdb
 C:\Users\calla\source\repos\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.genruntimeconfig.cache
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\bin\Debug\netcoreapp3.1\StaticKeywordExercise1.exe
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\bin\Debug\netcoreapp3.1\StaticKeywordExercise1.deps.json
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\bin\Debug\netcoreapp3.1\StaticKeywordExercise1.runtimeconfig.json
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\bin\Debug\netcoreapp3.1\StaticKeywordExercise1.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\bin\Debug\netcoreapp3.1\StaticKeywordExercise1.dll
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\bin\Debug\netcoreapp3.1\StaticKeywordExercise1.pdb
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.AssemblyInfo.cs
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.dll
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.pdb
+C:\Users\johnd\Desktop\repository\StaticKeywordExercise1\StaticKeywordExercise1\obj\Debug\netcoreapp3.1\StaticKeywordExercise1.genruntimeconfig.cache
